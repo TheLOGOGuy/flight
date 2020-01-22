@@ -9,7 +9,7 @@
   ],
   "devDependencies": {
     "jscs" : "^1.5.8",
-    "karma": "~0.12.6",
+    "karma": "~2.0.3",
     "karma-cli": "0.0.4",
     "karma-jasmine": "~0.1.0",
     "karma-requirejs": "~0.2.0",
@@ -17,7 +17,7 @@
     "karma-ie-launcher": "~0.1.1",
     "karma-firefox-launcher": "~0.1.0",
     "karma-safari-launcher": "~0.1.1",
-    "webpack": "^1.11"
+    "webpack": "^2.2.0"
   },
   "scripts": {
     "build": "npm run webpack & npm run webpack-minified",
