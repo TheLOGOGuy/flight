@@ -8,8 +8,8 @@
     "lib"
   ],
   "devDependencies": {
-    "jscs" : "^1.5.8",
-    "karma": "~0.12.6",
+    "jscs" : "^2.5.0",
+    "karma": "~0.13.12",
     "karma-cli": "0.0.4",
     "karma-jasmine": "~0.1.0",
     "karma-requirejs": "~0.2.0",
